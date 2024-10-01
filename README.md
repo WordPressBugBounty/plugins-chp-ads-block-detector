@@ -1,0 +1,1 @@
+# plugins-chp-ads-block-detector
